@@ -1,0 +1,3 @@
+
+
+void sorteia_palavra();
